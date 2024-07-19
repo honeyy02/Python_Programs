@@ -1,0 +1,1 @@
+Hello world! This is program for file handling in pythonAppending this text to example file
